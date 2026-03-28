@@ -57,6 +57,12 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        stat: {
+          blue: "hsl(var(--stat-blue))",
+          green: "hsl(var(--stat-green))",
+          amber: "hsl(var(--stat-amber))",
+          rose: "hsl(var(--stat-rose))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
